@@ -1,0 +1,27 @@
+Isi tinjuan pustaka:
+-teori:
+pengertian mengenai teori topik (misal data mining adalah).
+-praktikal:
+1.masukkan penelitian terdahulu yang berisi nama peneliti,judul,apa yang dilakukan dan teknik/metodenya
+2.kemudian masukkan metode yang akan kamu gunakan dan alasan kelebihan kenapa menggunakannnya dan problem yang dapat diselesaikan dengan metode yang kita pilih
+
+Note jika mengambil dari sumber penelitian orang:
+Ingat di Rephrase kalimat aktif jadi pasif
+dan tuliskan sumber dan tahunnya
+Ebook diperbolehkan tetapi tambahkan cantuman tanggal anda mengaksesnya
+Link link populer tidak boleh diambil hanya boleh dibaca
+
+dalam teks jika lebih dari 3 penulis maka pakai et.al. (et.al. = dkk)
+tulis nama blkng saja jika dalam teks
+Kalau di depan,
+Nama (tahun) contoh michael (2022) teknik knn dalam mengklasifikasikan demam berdarah dengan akurasi 78%
+Kalau di belakang contoh teknik knn dalam mengklasifikasikan demam berdarah dengan akurasi 78% (michael,2022)
+(Nama, tahun)
+dalam daftar pustaka tulis lengkap semua penulisnya tidak boleh et.al.
+
+untuuk rumus
+tuliskan (bab.nomor berapa)
+misal (2.1) maka rumus di bab2 rumus 1
+
+Caption (2.1) tabel harus di atas. Caption (2.1) gambar baru di bawah
+Gunakan kata figure jangan picture
